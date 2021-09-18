@@ -3,11 +3,11 @@
 
 @import "{{ site.theme }}";
 a {
-  color:#39c;
+  #color:#39c;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  #color:#069;
   font-weight: normal;
 }
