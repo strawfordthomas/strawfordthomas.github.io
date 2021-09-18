@@ -20,6 +20,6 @@ You can also use markdown to format bullet points and lists, but maybe you don't
 
 Adding links to your text is a matter of putting the word or phrase you want to be the link in \[square brackets]\ and the link itself straight afterwards in brackets, like \[google](http://www.google.com). 
 
-
+To edit a page, click on it, hit the pencil icon in the top right hand corner and you'll be able to change the text. If you're using markdown formatting and would like to see how it looks before changing anything, there's a preview icon just above the first line of the text you're editing. When you're done, hit the green "Commit changes" button at the bottom of the page. You can add a description of the changes you've made, but it's not really necessary. 
 
 
