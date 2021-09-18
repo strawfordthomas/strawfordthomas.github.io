@@ -45,5 +45,5 @@ _config.yml is a weird-titled file that controls some of the overall settings fo
 
 The main HTML for the left hand side website panel is in the _layouts folder. Again, you'll probably want to keep most of this. The main thing you might want to change here is the navigation menu. Hopefully when you look at that file, you'll see the section you can change to add or remove menu items. 
 
-If we change the default font, those settings will be in a css file in yet another folder, but we've not set that up yet. 
+If we change the default font, those settings will be in the .scss file in the assets folder, but we've not set that up yet. 
 
