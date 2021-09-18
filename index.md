@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 # Heading 1
 
@@ -8,6 +6,5 @@ layout: default
 
 ### Heading 3
 
-![rider](assets/images/index/rider.jpg)
 
 
