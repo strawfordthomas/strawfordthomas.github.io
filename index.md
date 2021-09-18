@@ -1,1 +1,1 @@
-The webside will default to showing this page first.
+The website will default to showing this page first.
