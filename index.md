@@ -4,6 +4,6 @@
 
 ### Heading 3
 
-[rider](/assets/images/index/rider.jpg)
+[rider](assets/images/index/rider.jpg)
 
 
