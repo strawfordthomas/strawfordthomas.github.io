@@ -1,2 +1,3 @@
 # strawfordthomas.github.io
-First part iteration
+
+Based on the [minimal](https://pages-themes.github.io/minimal/) theme.
