@@ -1,6 +1,6 @@
 # strawfordthomas.github.io
 
-A straightforward portfolio website based on the [minimal](https://pages-themes.github.io/minimal/) theme. The left hand side panel is used as a menu to navigate between separate scrolling pages.
+A straightforward portfolio website based on the [minimal](https://pages-themes.github.io/minimal/) theme. The left hand side panel is used as a menu to navigate between separate scrolling pages on the right. 
 
 ## Editing pages
 
@@ -34,8 +34,9 @@ The Assets folder is a place to put images or other files in. [Links](assets/ima
 
 If you ever wanted to put an image on the website, you can save an image in this folder and use a link like the one above, just preceded by an exclamation mark.
 
-
-\![catttt](assets/images/index/rider.jpg)\
+'''
+![catttt](assets/images/index/rider.jpg)\
+'''
 
 Which looks like:
 
@@ -45,5 +46,5 @@ _config.yml is a weird-titled file that controls some of the overall settings fo
 
 The main HTML for the left hand side website panel is in the _layouts folder. Again, you'll probably want to keep most of this. The main thing you might want to change here is the navigation menu. Hopefully when you look at that file, you'll see the section you can change to add or remove menu items. 
 
-If we change the default font, those settings will be in the .scss file in the assets folder, but we've not set that up yet. 
+To change the typeface and styles across the entire site, you need to change the styles.scss file in the assets folder.  
 
