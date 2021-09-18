@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # theme: jekyll-theme-minimal
 
 show_downloads: false
-logo: /assets/images/index/rider.jpg
+# logo: /assets/images/index/rider.jpg
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
