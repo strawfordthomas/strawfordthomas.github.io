@@ -22,4 +22,28 @@ Adding links to your text is a matter of putting the word or phrase you want to 
 
 To edit a page, click on it, hit the pencil icon in the top right hand corner and you'll be able to change the text. If you're using markdown formatting and would like to see how it looks before changing anything, there's a preview icon just above the first line of the text you're editing. When you're done, hit the green "Commit changes" button at the bottom of the page. No need to change "Commit directly to the main branch". You can add a description of the changes you've made in the text box, but it's not really necessary. 
 
+When you've made changes, github will automatically re-render the website. This doesn't always happen immediately, but you should be able to see the changes in about 5 minutes (pressing control+F5 to refresh your browser might speed things up a bit).
+
+## What the other files are
+
+Any pages in the "_drafts" folder won't be accessible on the web. So anything you don't want to be live right now can be moved in here.
+
+The Assets folder is a place to put images or other files in. [Links](assets/images/index/rider.jpg) to resources look like:
+
+\[Links](assets/images/index/rider.jpg)\
+
+If you ever wanted to put an image on the website, you can save an image in this folder and use a link like the one above, just preceded by an exclamation mark.
+
+
+\![catttt](assets/images/index/rider.jpg)\
+
+Which looks like:
+
+![catttt](assets/images/index/rider.jpg)
+
+_config.yml is a weird-titled file that controls some of the overall settings for the website. You're less likely to be changing things in here, but there's a couple of fields for Title and Description that change the text right at the top of the left hand side panel. 
+
+The main HTML for the left hand side website panel is in the _layouts folder. Again, you'll probably want to keep most of this. The main thing you might want to change here is the navigation menu. Hopefully when you look at that file, you'll see the section you can change to add or remove menu items. 
+
+If we change the default font, those settings will be in a css file in yet another folder, but we've not set that up yet. 
 
