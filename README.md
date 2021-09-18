@@ -1,6 +1,6 @@
 # strawfordthomas.github.io
 
-A simple portfolio website based on the [minimal](https://pages-themes.github.io/minimal/) theme. The left hand side panel is used as a menu to navigate between separate scrolling pages.
+A straightforward portfolio website based on the [minimal](https://pages-themes.github.io/minimal/) theme. The left hand side panel is used as a menu to navigate between separate scrolling pages.
 
 ## Editing pages
 
