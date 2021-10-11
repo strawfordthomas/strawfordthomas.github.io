@@ -7,9 +7,8 @@ layout: default
 
 London - Cafe Oto, Birmingham - Centrala, Nottingham - Rammel Club, Sheffield - University Arms, Leeds - CHUNK
 Bradford - Fuse Gallery, London - Bethnal Green Working Men's Club, Bristol - Cube Cinema, Frome – The Bennett Centre,
-London - The Others, London - Cafe Oto, Hamburg - Paprirpar Festival, Bremen - Musik Aktuelles: Musik mit Feedback, Belfast
-- Queen's University, Oxford - Audiograft Festival, Dartington - Dartington Arts School, London - Cafe Oto, London - Close-Up
-Cinema, Netherlands, Rotterdam - WORM, London - Cafe Oto, London - Close-Up cinema Expanded Cinema Film Festival,
+London - The Others, London - Cafe Oto, Hamburg - Paprirpar Festival, Bremen - Musik Aktuelles: Musik mit Feedback, Belfast - Queen's University, Oxford - Audiograft Festival, Dartington - Dartington Arts School, London - Cafe Oto, London - Close-Up
+Cinema, Netherlands, Rotterdam - WORM, London - Cafe Oto, London - Close-Up Cinema Expanded Cinema Film Festival,
 London - No-w-here, Prestatyn - All Tomorrow's Parties, London - Contact Film Festival, Wysing, Cambridgeshire - Wysing Arts
 Centre - Polyphonic Festival, London - V22 Gallery, Glasgow - Glasgow CCA - Radiophrenia, Wales - BBC Radio Wales,
 London - I'Klektik, London - The Whitechapel Gallery, Norway - Kongsberg International Jazz Festival, Spain – Barcelona -
