@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Selected performances 2001-2021
+### Selected Performances 2001-2021
 
 #### 2014 - 2021
 
