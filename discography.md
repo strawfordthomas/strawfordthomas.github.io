@@ -17,9 +17,8 @@ Hairy Butter - Hairy Butter (Lo Recordings).
 
 Richard Thomas - Soggy Martyrs (Lo Recordings), Richard Thomas - Seven Point Plan To Destroy Astrology (Lo Recordings), Richard Thomas - Shoes And Radios Attract Paint (Lo Recordings), Richard Thomas - Something With Milk In (Lo Recordings), Richard Thomas - What My Ears Can See (The Leaf Label).
 
-#### 1996 - 2020 - appearances on compilations as composer and producer.
+#### 1996 - 2021 - appearances on compilations as composer and producer.
 
-1979 (My Ears! My Ears!), Check The Water (The Leaf Label), It's Been Hell - Twenty Years of Lo Recordings (Lo Recordings), !VirvarRivrav! (Butterflied Lamb Records), Substancia 2 (Quatermass/Sub Rosa), Substancia 3 (Quatermass/Sub Rosa), Lo Mo (LoMo/Chebu), I Hate Sonic Mook Experiment (Hub), Fresh Fruit (Lo Recordings), Susumu Yokota Lo Compilation Mix (Lo Recordings), Lo and Behold (Lo Recordings), Constant Friction (Lo Recordings), Fabulous Shit (Lo Recordings),    
-Thurston Moore Vs Various Artists - Root (Lo Recordings), Further Mutations (Lo Recordings), Invisible Soundtracks Volume 2 (The Leaf Label), Invisible Soundtracks Macro 1 (The Leaf Label).
+The Life of an Uncultured Musician (Supernormal), 1979 (My Ears! My Ears!), Check The Water (The Leaf Label), It's Been Hell - Twenty Years of Lo Recordings (Lo Recordings), !VirvarRivrav! (Butterflied Lamb Records), Substancia 2 (Quatermass/Sub Rosa), Substancia 3 (Quatermass/Sub Rosa), Lo Mo (LoMo/Chebu), I Hate Sonic Mook Experiment (Hub), Fresh Fruit (Lo Recordings), Susumu Yokota Lo Compilation Mix (Lo Recordings), Lo and Behold (Lo Recordings), Constant Friction (Lo Recordings), Fabulous Shit (Lo Recordings),Thurston Moore Vs Various Artists - Root (Lo Recordings), Further Mutations (Lo Recordings), Invisible Soundtracks Volume 2 (The Leaf Label), Invisible Soundtracks Macro 1 (The Leaf Label).
 
 [Back](index.html)
