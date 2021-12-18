@@ -5,7 +5,7 @@ layout: default
 
 #### 2014 - 2021 - group works (albums and EPs) as principal composer and producer.
 
-Secluded Bronte - The Horns of Andromeda ([Takuroku](https://www.cafeoto.co.uk/shop/secluded-bronte-the-horns-of-andromeda/)), Secluded Bronte - Queens ([Ffordd Allan](https://fforddallan.bandcamp.com/)), Secluded Bronte - For Entertainment Everyone Dies (Apolkalypso), DJ Foreign Extra - Busy over the Summer/The Village ([Ffordd Allan](https://fforddallan.bandcamp.com/)), Secluded Bronte - Magnetic Crochet ([Ffordd Allan](https://fforddallan.bandcamp.com/)), Secluded Bronte - Ten Point Plan To Destroy Astrology (Singing Knives), Secluded Bronte - Dark August Variations (Klangendum/WORM), Secluded Bronte - Secluded in Jersey City (Pogus Productions).
+Secluded Bronte - The Horns of Andromeda ([Takuroku](https://www.cafeoto.co.uk/shop/secluded-bronte-the-horns-of-andromeda/)), Secluded Bronte - Queens ([Ffordd Allan](https://fforddallan.bandcamp.com/)), Secluded Bronte - For Entertainment Everyone Dies (Apolkalypso), DJ Foreign Extra - Busy over the Summer/The Village (Ffordd Allan), Secluded Bronte - Magnetic Crochet ([Ffordd Allan](https://fforddallan.bandcamp.com/album/magnetic-crochet)), Secluded Bronte - Ten Point Plan To Destroy Astrology (Singing Knives), Secluded Bronte - Dark August Variations (Klangendum/WORM), Secluded Bronte - Secluded in Jersey City (Pogus Productions).
 
 #### 1997 - 2017 - group works (albums and EPs) as co-composer and co-producer.
 
