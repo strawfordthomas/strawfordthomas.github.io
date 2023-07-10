@@ -5,7 +5,7 @@ layout: default
 
 #### 2021- 2023 - group works (albums and EPs) as principal composer and producer.
 
-Secluded Bronte - The Horns of Andromeda (Ffordd Allan),Richard Thomas - The Painted Orchid ([Ffordd Allan](https://fforddallan.bandcamp.com/album/the-painted-orchid)), Richard Thomas - The House Rabbit of Jesus Green ([Ffordd Allan](https://fforddallan.bandcamp.com/album/the-house-rabbit-of-jesus-green)), Secluded Bronte & James Holcombe - Live at Supernormal (Ffordd Allan), Secluded Bronte - Live in Zurich ([Ffordd Allan)
+Secluded Bronte - The Horns of Andromeda (Ffordd Allan),Richard Thomas - The Painted Orchid ([Ffordd Allan](https://fforddallan.bandcamp.com/album/the-painted-orchid)), Richard Thomas - The House Rabbit of Jesus Green ([Ffordd Allan](https://fforddallan.bandcamp.com/album/the-house-rabbit-of-jesus-green)), Secluded Bronte & James Holcombe - Live at Supernormal (Ffordd Allan), Secluded Bronte - Live in Zurich (Ffordd Allan)
 
 #### 2014 - 2021 - group works (albums and EPs) as principal composer and producer.
 
