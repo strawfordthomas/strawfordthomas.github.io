@@ -3,9 +3,9 @@ layout: default
 ---
 ### Other
 
-#### 2001 - 2019 - music for spaces, public address systems/music to be heard not listened to 
+#### 2001 - 2019 - performance pieces/music for public address systems/music to be heard not listened to 
 
-Eight Mental Processes That Have Something/Nothing to do with The Periodic Table (291 Gallery, London), Treat Your Mother Right (Paul Smith, London), Prole Feed (Tate Britain, London), If Reggae were a form of Sport (Palazzo delle Arti, Napoli), Pink Prison (Raven Row, London), A raven at the feast of the black hole (Auto-Italia, London), Composition for Museum Josip Broz Tito (Brijuni), The Magic Concert/Magnetic Crochet (Queen’s University, Belfast)
+Eight Mental Processes That Have Something/Nothing To Do With The Periodic Table (291 Gallery, London), Treat Your Mother Right (Paul Smith, London), Prole Feed (Tate Britain, London), If Reggae were a form of Sport (Palazzo delle Arti, Napoli), Pink Prison (Raven Row, London), A raven at the feast of the Black hole (Auto-Italia, London), Composition for Museum Josip Broz Tito (Brijuni), The Magic Concert/Magnetic Crochet (Queen’s University, Belfast)
 
 #### 2012 – 2020 - music theatre
 
