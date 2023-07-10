@@ -25,6 +25,6 @@ Richard Thomas - Soggy Martyrs (Lo Recordings), Richard Thomas - Seven Point P
 
 The Life of an Uncultured Musician (Supernormal), 1979 (My Ears! My Ears!), Check The Water (The Leaf Label), It's Been Hell - Twenty Years of Lo Recordings (Lo Recordings), !VirvarRivrav! (Butterflied Lamb Records), Substancia 2 (Quatermass/Sub Rosa), Substancia 3 (Quatermass/Sub Rosa), Lo Mo (LoMo/Chebu), I Hate Sonic Mook Experiment (Hub), Fresh Fruit (Lo Recordings), Susumu Yokota Lo Compilation Mix (Lo Recordings), Lo and Behold (Lo Recordings), Constant Friction (Lo Recordings), Fabulous Shit (Lo Recordings),Thurston Moore Vs Various Artists - Root (Lo Recordings), Further Mutations (Lo Recordings), Invisible Soundtracks Volume 2 (The Leaf Label), Invisible Soundtracks Macro 1 (The Leaf Label).
 
-### The complete Ffordd Allan discography thus far can be found (here https://fforddallan.bandcamp.com/))
+### The complete Ffordd Allan discography thus far can be found here https://fforddallan.bandcamp.com/))
 
 [Back](index.html)
