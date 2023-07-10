@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Discography 1996 - 2021
+### Discography 1996 - 2023
 
 #### 2021- 2023 - group works (albums and EPs) as principal composer and producer.
 
